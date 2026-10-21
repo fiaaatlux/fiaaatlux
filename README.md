@@ -1,4 +1,4 @@
-*Knowing something of everything, and everything of something.*
+### Things I've made
 
 - 🧱 **[Brick Keeper](https://apps.apple.com/us/app/brick-keeper/id6761607220)** — a LEGO collection manager for iPhone & iPad
 - 📚 **[Machine Learning Notes](https://github.com/fiaaatlux/gitbook-ml)** — theory notes, from vectors to SVMs (中文 / English)
